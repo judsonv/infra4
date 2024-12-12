@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    text-align:center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+  
+  #nav{background-color: #191971;
+  color:white;
+  }
+  
+  #topo{background-color: #191971;
+  color:white;
+  }
+  #topo h2{background-color: #191971;
+  color:white;
+  
+  }
+  
+  
+  footer{
+  text-align: center;
+  padding: 10px;
+  background-color: black;
+  color:aqua;
+  }
+  
+  footer a{
+    text-decoration: none;
+    color: aqua;
+  }
+  
+  
+    
+  
+  
